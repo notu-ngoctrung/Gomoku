@@ -4,4 +4,4 @@ This is a project that I have written when attending EECS132 of Professor Connam
 
 # GUI
 The game includes 4 components: game board, reset button, player color box, and notification box <br/>
-<img src="https://github.com/notu-ngoctrung/Gomoku/blob/master/Preview.PNG?raw=true" alt="Preview for Gomoku" align=middle>
+<img src="https://github.com/notu-ngoctrung/Gomoku/blob/master/Preview.PNG?raw=true" alt="Preview for Gomoku" align=middle width=75% height=75%>
